@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:minhducck/product-catalog-service.git
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:minhducck/product-catalog-deployment.git
